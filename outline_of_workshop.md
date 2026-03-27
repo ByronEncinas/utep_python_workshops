@@ -1,13 +1,15 @@
 Since the original file is in docs (we didn't know any better at the time), here is the readable outline
 
+## Instructors:
+Byron Encinas, Graduate Student in Physics, 
+Tadeo Rocha, Undergraduate in Physics
+Also Sanchez, Undergraduate in Computer Science
+
 # Python Workshop for Physicist
 
 A month of student guided problem solving and python discussions, their use and first approach for science undergrads.
 
-Instructors:
-- Byron Encinas, Graduate Student in Physics, 
-- Tadeo Rocha, Undergraduate in Physics
-- Also Sanchez, Undergraduate in Computer Science
+## Outline
 
 - Python and Why for Physics?
    - Other Languages to use in Physics (C, C++, Fortran, R, Julia, etc.)
